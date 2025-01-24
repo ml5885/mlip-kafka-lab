@@ -1,0 +1,330 @@
+2025-01-23 15:15:31,Denver,23\u00baC
+2025-01-23 15:15:32,Denver,27\u00baC
+2025-01-23 15:15:33,San Francisco,22\u00baC
+2025-01-23 15:15:34,Denver,23\u00baC
+2025-01-23 15:15:35,San Francisco,28\u00baC
+2025-01-23 15:15:36,Denver,29\u00baC
+2025-01-23 15:15:37,San Francisco,26\u00baC
+2025-01-23 15:15:38,Denver,23\u00baC
+2025-01-23 15:15:39,San Francisco,18\u00baC
+2025-01-23 15:15:40,San Francisco,25\u00baC
+2025-01-23 15:32:11,Los Angeles,29\u00baC
+2025-01-23 15:32:12,Los Angeles,24\u00baC
+2025-01-23 15:32:13,Denver,22\u00baC
+2025-01-23 15:32:14,Denver,26\u00baC
+2025-01-23 15:32:15,Denver,19\u00baC
+2025-01-23 15:32:16,Denver,27\u00baC
+2025-01-23 15:32:17,Los Angeles,22\u00baC
+2025-01-23 15:32:18,Denver,28\u00baC
+2025-01-23 15:32:19,Denver,24\u00baC
+2025-01-23 15:32:20,Denver,24\u00baC
+2025-01-23 15:36:45,Los Angeles,31\u00baC
+2025-01-23 15:36:47,Denver,28\u00baC
+2025-01-23 15:36:48,Denver,23\u00baC
+2025-01-23 15:36:49,Los Angeles,24\u00baC
+2025-01-23 15:36:50,Denver,23\u00baC
+2025-01-23 15:36:51,Denver,31\u00baC
+2025-01-23 15:36:52,Los Angeles,22\u00baC
+2025-01-23 15:36:53,Los Angeles,32\u00baC
+2025-01-23 15:36:54,Los Angeles,28\u00baC
+2025-01-23 15:36:55,Los Angeles,30\u00baC
+2025-01-23 19:52:39,New York,24\u00baC
+2025-01-23 19:52:40,New York,31\u00baC
+2025-01-23 19:52:41,San Francisco,32\u00baC
+2025-01-23 19:52:42,San Francisco,23\u00baC
+2025-01-23 19:52:43,New York,31\u00baC
+2025-01-23 19:52:44,New York,32\u00baC
+2025-01-23 19:52:45,New York,22\u00baC
+2025-01-23 19:52:46,San Francisco,26\u00baC
+2025-01-23 19:52:47,San Francisco,29\u00baC
+2025-01-23 19:52:48,San Francisco,22\u00baC
+2025-01-23 19:56:23,San Francisco,19\u00baC
+2025-01-23 19:56:24,New York,23\u00baC
+2025-01-23 19:56:25,San Francisco,27\u00baC
+2025-01-23 19:56:26,San Francisco,23\u00baC
+2025-01-23 19:56:27,New York,28\u00baC
+2025-01-23 19:56:28,New York,28\u00baC
+2025-01-23 19:56:29,New York,32\u00baC
+2025-01-23 19:56:30,San Francisco,19\u00baC
+2025-01-23 19:56:31,New York,27\u00baC
+2025-01-23 19:56:32,New York,18\u00baC
+2025-01-23 20:00:10,San Francisco,32\u00baC
+2025-01-23 20:00:11,New York,25\u00baC
+2025-01-23 20:00:12,Kathmandu,31\u00baC
+2025-01-23 20:00:13,New York,32\u00baC
+2025-01-23 20:00:14,Kathmandu,29\u00baC
+2025-01-23 20:00:15,Kathmandu,29\u00baC
+2025-01-23 20:00:16,San Francisco,19\u00baC
+2025-01-23 20:00:17,New York,26\u00baC
+2025-01-23 20:00:18,New York,23\u00baC
+2025-01-23 20:00:19,New York,19\u00baC
+2025-01-23 20:17:51,Houston,18\u00baC
+2025-01-23 20:17:52,Houston,27\u00baC
+2025-01-23 20:17:53,Houston,19\u00baC
+2025-01-23 20:17:54,Houston,22\u00baC
+2025-01-23 20:17:55,New York,19\u00baC
+2025-01-23 20:17:56,Los Angeles,21\u00baC
+2025-01-23 20:17:57,New York,23\u00baC
+2025-01-23 20:17:58,New York,31\u00baC
+2025-01-23 20:17:59,Los Angeles,26\u00baC
+2025-01-23 20:18:00,Houston,22\u00baC
+2025-01-23 20:20:14,New York,22\u00baC
+2025-01-23 20:20:15,San Francisco,30\u00baC
+2025-01-23 20:20:16,Kathmandu,24\u00baC
+2025-01-23 20:20:17,Kathmandu,21\u00baC
+2025-01-23 20:20:18,New York,31\u00baC
+2025-01-23 20:20:19,New York,24\u00baC
+2025-01-23 20:20:20,San Francisco,32\u00baC
+2025-01-23 20:20:21,Kathmandu,23\u00baC
+2025-01-23 20:20:22,San Francisco,20\u00baC
+2025-01-23 20:20:23,Kathmandu,26\u00baC
+2025-01-23 20:41:35,New York,27\u00baC
+2025-01-23 20:41:36,Kathmandu,27\u00baC
+2025-01-23 20:41:37,San Francisco,32\u00baC
+2025-01-23 20:41:38,San Francisco,29\u00baC
+2025-01-23 20:41:39,San Francisco,19\u00baC
+2025-01-23 20:41:40,Kathmandu,25\u00baC
+2025-01-23 20:41:41,Kathmandu,31\u00baC
+2025-01-23 20:41:42,New York,31\u00baC
+2025-01-23 20:41:43,San Francisco,25\u00baC
+2025-01-23 20:41:44,San Francisco,28\u00baC
+2025-01-23 20:43:55,Kathmandu,31\u00baC
+2025-01-23 20:43:56,Kathmandu,26\u00baC
+2025-01-23 20:43:57,Kathmandu,31\u00baC
+2025-01-23 20:43:58,San Francisco,18\u00baC
+2025-01-23 20:43:59,Kathmandu,29\u00baC
+2025-01-23 20:44:00,New York,20\u00baC
+2025-01-23 20:44:01,San Francisco,27\u00baC
+2025-01-23 20:44:02,San Francisco,19\u00baC
+2025-01-23 20:44:03,San Francisco,20\u00baC
+2025-01-23 20:44:04,New York,29\u00baC
+2025-01-23 22:19:33,New York,24\u00baC
+2025-01-23 22:19:34,Bangalore,20\u00baC
+2025-01-23 22:19:35,Bangalore,30\u00baC
+2025-01-23 22:19:36,London,22\u00baC
+2025-01-23 22:19:37,Bangalore,23\u00baC
+2025-01-23 22:19:38,Bangalore,30\u00baC
+2025-01-23 22:19:39,New York,29\u00baC
+2025-01-23 22:19:40,New York,32\u00baC
+2025-01-23 22:19:41,Bangalore,30\u00baC
+2025-01-23 22:19:42,London,20\u00baC
+2025-01-23 23:01:18,Xiamen,28\u00baC
+2025-01-23 23:01:19,Pittsburgh,21\u00baC
+2025-01-23 23:01:20,Pittsburgh,32\u00baC
+2025-01-23 23:01:21,Xiamen,21\u00baC
+2025-01-23 23:01:22,Xiamen,29\u00baC
+2025-01-23 23:01:23,Xiamen,32\u00baC
+2025-01-23 23:01:24,Baoji,20\u00baC
+2025-01-23 23:01:25,Pittsburgh,26\u00baC
+2025-01-23 23:01:26,Pittsburgh,23\u00baC
+2025-01-23 23:01:27,Pittsburgh,27\u00baC
+2025-01-24 00:51:41,Seoul,19\u00baC
+2025-01-24 00:51:42,Seoul,19\u00baC
+2025-01-24 00:51:43,Seoul,26\u00baC
+2025-01-24 00:51:44,Seoul,28\u00baC
+2025-01-24 00:51:45,Seoul,24\u00baC
+2025-01-24 00:51:46,Pittsburgh,32\u00baC
+2025-01-24 00:51:47,Seoul,29\u00baC
+2025-01-24 00:51:48,Seoul,21\u00baC
+2025-01-24 00:51:49,Seoul,26\u00baC
+2025-01-24 00:51:50,Pittsburgh,30\u00baC
+2025-01-24 06:15:21,New York,20\u00baC
+2025-01-24 06:15:22,Pittsburgh,26\u00baC
+2025-01-24 06:15:23,Pittsburgh,21\u00baC
+2025-01-24 06:15:24,New York,25\u00baC
+2025-01-24 06:15:25,New York,20\u00baC
+2025-01-24 06:15:26,New York,32\u00baC
+2025-01-24 06:15:27,Pittsburgh,21\u00baC
+2025-01-24 06:15:28,Pittsburgh,23\u00baC
+2025-01-24 06:15:29,Pittsburgh,19\u00baC
+2025-01-24 06:15:30,New York,27\u00baC
+2025-01-24 06:46:13,Boston,24\u00baC
+2025-01-24 06:46:14,Boston,18\u00baC
+2025-01-24 06:46:15,Boston,19\u00baC
+2025-01-24 06:46:16,Pittsburgh,25\u00baC
+2025-01-24 06:46:17,New York,28\u00baC
+2025-01-24 06:46:18,Pittsburgh,30\u00baC
+2025-01-24 06:46:19,Boston,30\u00baC
+2025-01-24 06:46:20,Pittsburgh,22\u00baC
+2025-01-24 06:46:21,Boston,18\u00baC
+2025-01-24 06:46:22,Boston,18\u00baC
+2025-01-24 06:50:00,Boston,18\u00baC
+2025-01-24 06:50:01,Boston,32\u00baC
+2025-01-24 06:50:02,Pittsburgh,23\u00baC
+2025-01-24 06:50:03,Pittsburgh,26\u00baC
+2025-01-24 06:50:04,Boston,19\u00baC
+2025-01-24 06:50:05,Boston,30\u00baC
+2025-01-24 06:50:06,Boston,32\u00baC
+2025-01-24 06:50:07,New York,24\u00baC
+2025-01-24 06:50:08,Boston,27\u00baC
+2025-01-24 06:50:09,New York,19\u00baC
+2025-01-24 02:07:52,New York,19\u00baC
+2025-01-24 02:07:53,Chicago,22\u00baC
+2025-01-24 02:07:54,Chicago,21\u00baC
+2025-01-24 02:07:55,New York,29\u00baC
+2025-01-24 02:07:56,Seattle,19\u00baC
+2025-01-24 02:07:57,Seattle,23\u00baC
+2025-01-24 02:07:58,New York,24\u00baC
+2025-01-24 02:07:59,New York,28\u00baC
+2025-01-24 02:08:00,Chicago,32\u00baC
+2025-01-24 02:08:01,Chicago,32\u00baC
+2025-01-24 02:10:33,Seattle,23\u00baC
+2025-01-24 02:10:34,Chicago,28\u00baC
+2025-01-24 02:10:35,New York,22\u00baC
+2025-01-24 02:10:36,New York,23\u00baC
+2025-01-24 02:10:37,Chicago,30\u00baC
+2025-01-24 02:10:38,Chicago,25\u00baC
+2025-01-24 02:10:39,New York,19\u00baC
+2025-01-24 02:10:40,Seattle,25\u00baC
+2025-01-24 02:10:41,Seattle,31\u00baC
+2025-01-24 02:10:42,Chicago,25\u00baC
+2025-01-24 02:41:30,Chicago,19\u00baC
+2025-01-24 02:41:31,New York,20\u00baC
+2025-01-24 02:41:32,New York,29\u00baC
+2025-01-24 02:41:33,Seattle,20\u00baC
+2025-01-24 02:41:34,New York,23\u00baC
+2025-01-24 02:41:35,Chicago,21\u00baC
+2025-01-24 02:41:36,New York,31\u00baC
+2025-01-24 02:41:37,Seattle,32\u00baC
+2025-01-24 02:41:38,Seattle,31\u00baC
+2025-01-24 02:41:39,Chicago,18\u00baC
+2025-01-24 02:45:04,Chicago,25\u00baC
+2025-01-24 02:45:05,New York,19\u00baC
+2025-01-24 02:45:06,Seattle,31\u00baC
+2025-01-24 02:45:07,Chicago,21\u00baC
+2025-01-24 02:45:08,Chicago,20\u00baC
+2025-01-24 02:45:09,Seattle,18\u00baC
+2025-01-24 02:45:10,Seattle,31\u00baC
+2025-01-24 02:45:11,Seattle,28\u00baC
+2025-01-24 02:45:12,Seattle,30\u00baC
+2025-01-24 02:45:13,Chicago,24\u00baC
+2025-01-24 03:00:22,Cleveland,29\u00baC
+2025-01-24 03:00:23,Detroit,30\u00baC
+2025-01-24 03:00:24,Pittsburgh,32\u00baC
+2025-01-24 03:00:25,Cleveland,21\u00baC
+2025-01-24 03:00:26,Cleveland,25\u00baC
+2025-01-24 03:00:27,Pittsburgh,19\u00baC
+2025-01-24 03:00:28,Pittsburgh,25\u00baC
+2025-01-24 03:00:29,Cleveland,21\u00baC
+2025-01-24 03:00:30,Cleveland,23\u00baC
+2025-01-24 03:00:31,Cleveland,27\u00baC
+2025-01-24 03:01:33,Detroit,18\u00baC
+2025-01-24 03:01:34,Pittsburgh,20\u00baC
+2025-01-24 03:01:35,Detroit,23\u00baC
+2025-01-24 03:01:36,Detroit,32\u00baC
+2025-01-24 03:01:37,Cleveland,23\u00baC
+2025-01-24 03:01:38,Cleveland,23\u00baC
+2025-01-24 03:01:39,Detroit,28\u00baC
+2025-01-24 03:01:40,Cleveland,26\u00baC
+2025-01-24 03:01:41,Cleveland,31\u00baC
+2025-01-24 03:01:42,Cleveland,23\u00baC
+2025-01-24 09:00:34,Chicago,25\u00baC
+2025-01-24 09:00:36,New York,29\u00baC
+2025-01-24 09:00:37,New York,18\u00baC
+2025-01-24 09:00:38,Chicago,23\u00baC
+2025-01-24 09:00:39,New York,25\u00baC
+2025-01-24 09:00:40,New York,18\u00baC
+2025-01-24 09:00:41,Los Angeles,23\u00baC
+2025-01-24 09:00:42,Chicago,28\u00baC
+2025-01-24 09:00:43,Chicago,21\u00baC
+2025-01-24 09:00:44,Chicago,25\u00baC
+2025-01-24 09:49:03,Seoul,32\u00baC
+2025-01-24 09:49:04,Seoul,30\u00baC
+2025-01-24 09:49:05,Seoul,22\u00baC
+2025-01-24 09:49:06,Pittsburgh,29\u00baC
+2025-01-24 09:49:07,Seoul,23\u00baC
+2025-01-24 09:49:08,Pittsburgh,31\u00baC
+2025-01-24 09:49:09,Pittsburgh,21\u00baC
+2025-01-24 09:49:10,Pittsburgh,22\u00baC
+2025-01-24 09:49:11,Pittsburgh,21\u00baC
+2025-01-24 09:49:12,Pittsburgh,28\u00baC
+2025-01-24 10:28:00,San Francisco,25\u00baC
+2025-01-24 10:28:01,Los Angeles,21\u00baC
+2025-01-24 10:28:02,Seattle,21\u00baC
+2025-01-24 10:28:03,Los Angeles,27\u00baC
+2025-01-24 10:28:04,Seattle,19\u00baC
+2025-01-24 10:28:05,Seattle,25\u00baC
+2025-01-24 10:28:06,Los Angeles,28\u00baC
+2025-01-24 10:28:07,Los Angeles,29\u00baC
+2025-01-24 10:28:08,Los Angeles,21\u00baC
+2025-01-24 10:28:09,San Francisco,30\u00baC
+2025-01-24 10:29:48,Chicago,23\u00baC
+2025-01-24 10:29:49,Los Angeles,32\u00baC
+2025-01-24 10:29:50,Los Angeles,28\u00baC
+2025-01-24 10:29:51,Los Angeles,19\u00baC
+2025-01-24 10:29:52,Chicago,28\u00baC
+2025-01-24 10:29:53,New York,25\u00baC
+2025-01-24 10:29:54,New York,25\u00baC
+2025-01-24 10:29:55,Chicago,18\u00baC
+2025-01-24 10:29:56,Chicago,30\u00baC
+2025-01-24 10:29:57,New York,21\u00baC
+2025-01-24 10:52:40,Seattle,24\u00baC
+2025-01-24 10:52:41,San Francisco,31\u00baC
+2025-01-24 10:52:42,San Francisco,30\u00baC
+2025-01-24 10:52:43,San Francisco,18\u00baC
+2025-01-24 10:52:44,San Francisco,28\u00baC
+2025-01-24 10:52:45,Los Angeles,26\u00baC
+2025-01-24 10:52:46,San Francisco,25\u00baC
+2025-01-24 10:52:47,Los Angeles,23\u00baC
+2025-01-24 10:52:48,San Francisco,27\u00baC
+2025-01-24 10:52:49,Seattle,24\u00baC
+2025-01-24 10:58:48,San Francisco,21\u00baC
+2025-01-24 10:58:49,San Francisco,26\u00baC
+2025-01-24 10:58:50,Seattle,25\u00baC
+2025-01-24 10:58:51,Los Angeles,28\u00baC
+2025-01-24 10:58:52,Seattle,27\u00baC
+2025-01-24 10:58:53,San Francisco,18\u00baC
+2025-01-24 10:58:54,San Francisco,19\u00baC
+2025-01-24 10:58:55,San Francisco,18\u00baC
+2025-01-24 10:58:56,Seattle,21\u00baC
+2025-01-24 10:58:57,San Francisco,31\u00baC
+2025-01-24 11:02:35,new york,19\u00baC
+2025-01-24 11:02:36,new york,19\u00baC
+2025-01-24 11:02:37,new york,28\u00baC
+2025-01-24 11:02:38,new york,29\u00baC
+2025-01-24 11:02:39,new york,19\u00baC
+2025-01-24 11:02:40,new york,19\u00baC
+2025-01-24 11:02:41,new york,27\u00baC
+2025-01-24 11:02:42,new york,19\u00baC
+2025-01-24 11:02:43,new york,23\u00baC
+2025-01-24 11:02:44,new york,30\u00baC
+2025-01-24 11:03:33,Rio de Janeiro, Tokyo,28\u00baC
+2025-01-24 11:03:34,Berlin,32\u00baC
+2025-01-24 11:03:35,Berlin,25\u00baC
+2025-01-24 11:03:36,Rio de Janeiro, Tokyo,30\u00baC
+2025-01-24 11:03:37,Rio de Janeiro, Tokyo,26\u00baC
+2025-01-24 11:03:38,Rio de Janeiro, Tokyo,19\u00baC
+2025-01-24 11:03:39,Berlin,20\u00baC
+2025-01-24 11:03:40,Berlin,32\u00baC
+2025-01-24 11:03:41,Rio de Janeiro, Tokyo,25\u00baC
+2025-01-24 11:03:42,Berlin,18\u00baC
+2025-01-24 11:04:20,Kathmandu,28\u00baC
+2025-01-24 11:04:21,San Francisco,24\u00baC
+2025-01-24 11:04:22,Kathmandu,27\u00baC
+2025-01-24 11:04:23,Kathmandu,26\u00baC
+2025-01-24 11:04:24,New York,19\u00baC
+2025-01-24 11:04:25,New York,31\u00baC
+2025-01-24 11:04:26,San Francisco,22\u00baC
+2025-01-24 11:04:27,Kathmandu,19\u00baC
+2025-01-24 11:04:28,Los Angeles,30\u00baC
+2025-01-24 11:04:28,San Francisco,24\u00baC
+2025-01-24 11:04:29,Denver,27\u00baC
+2025-01-24 11:04:29,New York,24\u00baC
+2025-01-24 11:04:30,Denver,18\u00baC
+2025-01-24 11:04:31,Denver,29\u00baC
+2025-01-24 11:04:32,Los Angeles,21\u00baC
+2025-01-24 11:04:33,Los Angeles,31\u00baC
+2025-01-24 11:04:34,Los Angeles,20\u00baC
+2025-01-24 11:04:35,Los Angeles,30\u00baC
+2025-01-24 11:04:36,Los Angeles,23\u00baC
+2025-01-24 11:04:37,Denver,18\u00baC
+2025-01-24 11:06:27,Kathmandu,23\u00baC
+2025-01-24 11:06:28,San Francisco,18\u00baC
+2025-01-24 11:06:29,New York,32\u00baC
+2025-01-24 11:06:30,Kathmandu,20\u00baC
+2025-01-24 11:06:31,San Francisco,29\u00baC
+2025-01-24 11:06:32,San Francisco,25\u00baC
+2025-01-24 11:06:33,San Francisco,24\u00baC
+2025-01-24 11:06:34,San Francisco,25\u00baC
+2025-01-24 11:06:35,Kathmandu,27\u00baC
+2025-01-24 11:06:36,San Francisco,28\u00baC
